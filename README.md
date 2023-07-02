@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @eddievagner
 - 👀 I’m interested in learning develop soft skills to grow more and more each day
-- 🌱 I’m currently learning the Kotlin programming language through the DIO Bootcamp
-- 💞️ I’m looking to collaborate on development for Android systems
+- 🌱 I’m currently learning the Python programming language, through the DIO(Digital Innovation ONe) Bootcamp
+- 💞️ I’m looking to collaborate on development and make the change
 - 📫 How to reach me on social networks as vagner rodrigues
 
 <!---
